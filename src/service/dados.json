@@ -1,0 +1,42 @@
+{
+  "profile": {
+    "img": "https://scontent.fpoj3-1.fna.fbcdn.net/v/t39.30808-6/315429237_5519894601456522_1062662527577446615_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGA2aPY4EA5-6f8_VC45Qc6Qumil5ywNcdC6aKXnLA1x-Bp75PXq5Zi1LKQMPdnU5j2cMIoeF6mRCA2n6Z6iYdL&_nc_ohc=2-P8HzxTPncAX_MgG7V&_nc_ht=scontent.fpoj3-1.fna&oh=00_AfAbZh1NjkTWJY0SrSXbcShOs48zK09SjRECRFgQK5yJag&oe=64ACA5DA",
+    "nome": "Petrônio",
+    "sobrenome": "José da Silva",
+    "cidade": "Lagoa Grande",
+    "estado": "MG",
+    "contato": "(34) 99992-4151",
+    "email": "petronio.55@hotmail.com",
+    "biografia": "Nascido em Presidente Olegário, sou morador de Lagoa Grande desde que nasci. Segundo filho de três de minha mãe e sétimo filho de nove de meu pai, fui criado pela minha mãe com pouca presença de meu pai. Devido às condições que minha mãe passava eu e meus irmãos não tivemos muitas oportunidades durante nossa infância, uma dessas oportunidades era o estudo mais avançado concluindo assim apenas o ensino fundamental, porem ela foi uma guerreira nos criando os três filhos sozinha. Já na final da juventude resolvi retorna para as aulas e concluir meu ensino médio. Com a conclusão do ensino médio acabei conhecendo minha esposa a qual estamos juntos a 11 anos e temos duas lindas filhas. Como adulto vi que me faltava algo na parte profissional que seria o diploma. Mas veio a dúvida qual ramo seguir? Em meados de 2020 conheci o mundo da programação no qual me apaixonei e decidi assim fazer o  sustento para minha família. Já conhecia o Polo da UNIUBE da minha cidade no qual ingresse e formei em Gestão da Tecnologia da Informação. E no qual estou hoje cursando a quarta etapa do curso Análise e Desenvolvimento de Sistemas.",
+    "experiencia": [
+      {
+        "id": 1,
+        "cargo": "Leiturista Motociclista",
+        "empresa": "Sertrim Comercio e Servicos Ltda Patos de Minas",
+        "periodo": "Novembro de 2014 – Setembro de 2015",
+        "atividades": "Realiza a leitura e medição do consumo de energiaelétrica e inspeciona equipamentos para constatar irregularidades na zona urbana e rural."
+      },
+      {
+        "id": 2,
+        "cargo": "Leiturista Motociclista",
+        "empresa": "Sociedade Civil de Saneamento LTDA (SCS)",
+        "periodo": "Setembro de 2015 – Maio de 2018",
+        "atividades": "Realiza a leitura e medição do consumo de energiaelétrica e inspeciona equipamentos para constatar irregularidades na zona urbana e rural."
+      },
+      {
+        "id": 3,
+        "cargo": "Motorista de Taxi",
+        "empresa": "Autonomo",
+        "periodo": "Junho de 2018 – Junho de 2020",
+        "atividades": "Dirigir veiculo automotor categoria B intermunicipal. Levando passageiros e encomendas."
+      },
+      {
+        "id": 4,
+        "cargo": "Progamador",
+        "empresa": "FiveM GTA-RP",
+        "periodo": " Julho de 2020 – Novembro de 2023",
+        "atividades": "Gerenciamento criação e modificação de scrpit para o servidor linguagem lua.Planejamento de eventos para os membros. Gerenciamento de membros do servidor. Programação de códigos para o servidor linguagem lua. Desenvolvimento e modificação de páginas em HTML, CSS para o servidor."
+      }
+    ]
+  }
+}
